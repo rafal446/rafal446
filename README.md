@@ -1,23 +1,8 @@
 
 ### Hi, i`m Rafał.
 I have completed a kodilla automation tester course and JavaStart Selenium course. Now i`m focused on improving my skills in testing.  
-<br><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41d.png?v8"/>
-<br>[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
-<br>## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+Lanquages and tools: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41d.png?v8"/> Beekeeper
+
 <br>
-
-<!--
-**rafal446/rafal446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
