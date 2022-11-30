@@ -6,5 +6,7 @@
 
 ### **My  interest:**
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41d.png?v8" alt="bee" width="40" height="40"/> Beekeeper
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41d.png?v8" alt="bee" width="30" height="30"/> Beekeeper
+Economy, investing
 :soccer: Football
+
