@@ -1,5 +1,5 @@
 # **Hi, i`m Rafał.**
-** I have completed a kodilla automation tester course and JavaStart Selenium course. Now i`m focused on improving my skills in testing. **  
+**I have completed a kodilla automation tester course and JavaStart Selenium course. Now i`m focused on improving my skills in testing.**  
 ![image](https://user-images.githubusercontent.com/110236444/204857017-0f2a87c2-9cc0-4f22-9fc6-500e7611ad86.png)
 - 📫 You can text me **rafal.baldowski@protonmail.com**
 ## **Lanquages and tools:** 
